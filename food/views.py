@@ -7,6 +7,3 @@ def index(request):
 
 def item(request):
     return HttpResponse('This is an item view')
-
-def hahafard(request):
-    return HttpResponse('mlaw2.github.io')
